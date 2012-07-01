@@ -1,5 +1,6 @@
 #!/bin/bash
 
-ssh ec2-user@ec2-web.minersoft.com << EOF
+ssh ec2-user@laurel-ca.minersoft.com << EOF
+    cd laurel-ca
     git pull
 EOF
