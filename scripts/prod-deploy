@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ssh ec2-user@ec2-web.minersoft.com << EOF
+    git pull
+EOF
