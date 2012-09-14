@@ -1,0 +1,50 @@
+body { margin-top: 30px; margin-bottom: 30px; }
+h1 {
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", "Helvetica", sans-serif;
+    font-size: 30px; font-weight: 900;
+    margin-top: 30px; margin-bottom: 30px;
+}
+h2 {
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", "Helvetica", sans-serif;
+    font-size: 24px; font-weight: 900;
+    margin-top: 18px; margin-bottom: 6px;
+}
+hr { background-color: #6E4C3F; border: 0px; color: #6E4C3F; height: 1px; }
+p { font-size: 14px; }
+p.heading { font-weight: bold; margin-bottom: 0px; }
+span.heading { font-weight: bold }
+.action_prompt {
+    margin-top: 20px; margin-bottom: 20px;
+    color: #6E2B11; font-size: 15px; font-style: italic; text-align: center;
+}
+.caption { text-align: center; font-style: italic; }
+.fine_print { color: #888; font-size: 12px; font-style: italic; text-align: justify; }
+.main_article { margin-top: 30px; }
+.main_article hr, .small_article hr { background-color: #6E4C3F; border: 0px; color: #6E4C3F; height: 1px; }
+.main_article .title, .small_article .title {
+    font-size: 23px;
+    margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px;
+}
+.main_article .date, .small_article .date {
+    color: #888;
+    font-family: "Helvetica Neue", "Helvetica", sans-serif;
+    margin-top: 0px; padding-top: 0px;
+}
+.note { font-style: italic; margin-top: 20px; }
+.read_more { position: absolute; bottom: 10px; right: 10px; }
+.small_article { margin-top: 30px; position: relative; }
+.small_article .title { font-size: 18px; }
+.title {
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", "Helvetica", sans-serif;
+    font-size: 30px; font-weight: 900;
+    margin-top: 30px; margin-bottom: 30px;
+}
+#sidebar ul {
+    font-family: "Helvetica Neue", "Helvetica", sans-serif; font-size: 23px; font-weight: 200;
+    list-style-type: none;
+    text-align: right;
+    margin-top: 60px;
+}
+#sidebar ul a { color: #6E2B11; margin-top: 10px; }
+#sidebar ul a:hover { color: #DB5621 }
+#sidebar ul a:visited { color: #6E4C3F }
