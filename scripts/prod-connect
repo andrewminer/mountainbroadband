@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh ec2-user@laurel-ca.minersoft.com
