@@ -1,3 +1,4 @@
+blockquote { text-style: italic; color: #444; margin: 20px 30px }
 body { margin-top: 30px; margin-bottom: 30px; }
 h1 {
     font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", "Helvetica", sans-serif;
