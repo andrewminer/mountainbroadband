@@ -17,6 +17,11 @@ h2 {
     font-size: 24px; font-weight: 900;
     margin-top: 18px; margin-bottom: 6px;
 }
+h3 {
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", "Helvetica", sans-serif;
+    font-size: 20px; font-weight: 900;
+    margin-top: 12px; margin-bottom: 3px;
+}
 hr { background-color: #6E4C3F; border: 0px; color: #6E4C3F; height: 1px; }
 p { font-size: 14px; }
 p.heading { font-weight: bold; margin-bottom: 0px; }
@@ -25,7 +30,9 @@ span.heading { font-weight: bold }
     margin-top: 20px; margin-bottom: 20px;
     color: #6E2B11; font-size: 15px; font-style: italic; text-align: center;
 }
+.banner { margin-top: 60px; text-align: center; }
 .caption { text-align: center; font-style: italic; }
+.center { text-align: center; }
 .fine_print { color: #888; font-size: 12px; font-style: italic; text-align: justify; }
 .main_article { margin-top: 30px; }
 .main_article hr, .small_article hr { background-color: #6E4C3F; border: 0px; color: #6E4C3F; height: 1px; }
@@ -47,6 +54,7 @@ span.heading { font-weight: bold }
     font-size: 30px; font-weight: 900;
     margin-top: 30px; margin-bottom: 30px;
 }
+.top_push { margin-top: 10px; }
 #sidebar ul {
     font-family: "Helvetica Neue", "Helvetica", sans-serif; font-size: 23px; font-weight: 200;
     list-style-type: none;
