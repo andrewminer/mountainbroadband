@@ -3,5 +3,4 @@
 ssh ec2-user@laurel-ca.minersoft.com << EOF
     cd laurel-ca
     git pull
-    /etc/init.d/httpd restart
 EOF
