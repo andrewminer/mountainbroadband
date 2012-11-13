@@ -1,6 +1,5 @@
 #!/bin/bash
 
-ssh ec2-user@www.mountainbroadband.org << EOF
-    cd laurel-ca
+ssh mountainbroadband@www.mountainbroadband.org << EOF
     git pull
 EOF
