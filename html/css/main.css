@@ -26,15 +26,23 @@ hr { background-color: #6E4C3F; border: 0px; color: #6E4C3F; height: 1px; }
 p { font-size: 14px; }
 p.heading { font-weight: bold; margin-bottom: 0px; }
 span.heading { font-weight: bold }
+strike { color: gray; }
 .action_prompt {
     margin-top: 20px; margin-bottom: 20px;
     color: #6E2B11; font-size: 15px; font-style: italic; text-align: center;
 }
-strike { color: gray; }
 .banner { margin-top: 60px; text-align: center; }
+.big_action_prompt { }
 .caption { text-align: center; font-style: italic; }
 .center { text-align: center; }
 .fine_print { color: #888; font-size: 12px; font-style: italic; text-align: justify; }
+.lead_number {
+    float: left;
+    font-family: "HelveticaNeue-UltraLight", "Helvetica Neue", "Helvetica", sans-serif;
+    font-size: 2em;
+    margin-left: 0.5em;
+    margin-right: 1em;
+}
 .main_article { margin-top: 30px; }
 .main_article hr, .small_article hr { background-color: #6E4C3F; border: 0px; color: #6E4C3F; height: 1px; }
 .main_article .title, .small_article .title {
