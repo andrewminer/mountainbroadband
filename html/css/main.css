@@ -36,6 +36,7 @@ strike { color: gray; }
 .caption { text-align: center; font-style: italic; }
 .center { text-align: center; }
 .fine_print { color: #888; font-size: 12px; font-style: italic; text-align: justify; }
+.fine_print a { color: #888 }
 .lead_number {
     float: left;
     font-family: "HelveticaNeue-UltraLight", "Helvetica Neue", "Helvetica", sans-serif;
